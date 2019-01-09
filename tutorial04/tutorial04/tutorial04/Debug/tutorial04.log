@@ -1,0 +1,113 @@
+﻿Build started 2019/1/9 15:41:25.
+     1>Project "D:\tianyu\test\An ffmpeg and SDL Tutorial\tutorial04\tutorial04\tutorial04\tutorial04.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\tutorial04.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\tutorial04.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt tutorial04.cpp
+         tutorial04.cpp
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavutil\rational.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavutil\rational.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavutil\rational.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavutil\rational.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(117): warning C4996: 'av_dup_packet': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavcodec\avcodec.h(4621) : see declaration of 'av_dup_packet'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(183): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(183): warning C4996: 'avcodec_decode_audio4': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavcodec\avcodec.h(4944) : see declaration of 'avcodec_decode_audio4'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(196): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(198): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(213): warning C4996: 'av_free_packet': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavcodec\avcodec.h(4650) : see declaration of 'av_free_packet'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(283): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(289): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(289): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(289): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(289): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(293): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(293): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(372): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(373): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(376): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(377): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(406): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(406): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(436): warning C4996: 'AVPicture::data': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavcodec\avcodec.h(4063) : see declaration of 'AVPicture::data'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(437): warning C4996: 'AVPicture::data': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavcodec\avcodec.h(4063) : see declaration of 'AVPicture::data'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(438): warning C4996: 'AVPicture::data': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavcodec\avcodec.h(4063) : see declaration of 'AVPicture::data'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(440): warning C4996: 'AVPicture::linesize': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavcodec\avcodec.h(4065) : see declaration of 'AVPicture::linesize'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(441): warning C4996: 'AVPicture::linesize': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavcodec\avcodec.h(4065) : see declaration of 'AVPicture::linesize'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(442): warning C4996: 'AVPicture::linesize': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavcodec\avcodec.h(4065) : see declaration of 'AVPicture::linesize'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(451): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(452): warning C4996: 'AVPicture::data': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavcodec\avcodec.h(4063) : see declaration of 'AVPicture::data'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(454): warning C4996: 'AVPicture::linesize': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavcodec\avcodec.h(4065) : see declaration of 'AVPicture::linesize'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(485): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(485): warning C4996: 'avcodec_decode_video2': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavcodec\avcodec.h(4993) : see declaration of 'avcodec_decode_video2'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(495): warning C4996: 'av_free_packet': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavcodec\avcodec.h(4650) : see declaration of 'av_free_packet'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(509): warning C4018: '>=' : signed/unsigned mismatch
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(514): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(556): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(557): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(558): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(559): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(560): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(619): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(621): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(625): warning C4996: 'AVStream::codec': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavformat\avformat.h(893) : see declaration of 'AVStream::codec'
+     1>d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\tutorial04\tutorial04.cpp(677): warning C4996: 'av_free_packet': was declared deprecated
+                 d:\tianyu\test\an ffmpeg and sdl tutorial\tutorial04\tutorial04\include\libavcodec\avcodec.h(4650) : see declaration of 'av_free_packet'
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\tianyu\test\An ffmpeg and SDL Tutorial\tutorial04\tutorial04\Debug\tutorial04.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\lib avformat.lib avcodec.lib avutil.lib swscale.lib SDL.lib SDLmain.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\tutorial04.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\tianyu\test\An ffmpeg and SDL Tutorial\tutorial04\tutorial04\Debug\tutorial04.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\tianyu\test\An ffmpeg and SDL Tutorial\tutorial04\tutorial04\Debug\tutorial04.lib" /MACHINE:X86 Debug\tutorial04.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\tutorial04.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\tutorial04.exe.embed.manifest" /manifest Debug\tutorial04.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         tutorial04.vcxproj -> D:\tianyu\test\An ffmpeg and SDL Tutorial\tutorial04\tutorial04\Debug\tutorial04.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\tutorial04.unsuccessfulbuild".
+         Touching "Debug\tutorial04.lastbuildstate".
+     1>Done Building Project "D:\tianyu\test\An ffmpeg and SDL Tutorial\tutorial04\tutorial04\tutorial04\tutorial04.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.53
